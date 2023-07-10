@@ -1,0 +1,2 @@
+MultipleInitUpgradeable.initialize() (tests/e2e/detectors/test_data/multiple-init-upgradeable/0.8.15/MultipleInitUpgradeable.sol#6-9) calls multiple _init functions
+

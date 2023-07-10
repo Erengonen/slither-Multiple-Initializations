@@ -1,0 +1,2 @@
+Deneme function found in C.i_am_a_deneme() (tests/e2e/detectors/test_data/deneme/0.7.6/deneme.sol#4-6)
+
